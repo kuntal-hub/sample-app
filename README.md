@@ -1,5 +1,11 @@
 # CodeAnt AI - README.md
 
+## Deployed URL
+
+visit the deployed site at
+
+[https://sample-app-indol-two.vercel.app/](https://sample-app-indol-two.vercel.app/)
+
 ## How to run the project locally
 
 1. Clone the repository
